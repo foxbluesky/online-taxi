@@ -25,3 +25,9 @@ app更新服务（service-app-update）：8003
 
 网关（online-taxi-gateway）：9000
 
+redis 布隆过滤器
+https://blog.csdn.net/u010887744/article/details/108700911  
+https://www.cnblogs.com/ysocean/p/12594982.html 
+https://zhuanlan.zhihu.com/p/89883126
+
+
